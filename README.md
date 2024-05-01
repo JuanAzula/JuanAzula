@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juanazula3@gmail.com**
 
-- 📄 Know about my experiences [[[https://docs.google.com/document/d/e/2PACX-1vS8gRCjWA-xrIjxXCACaho7CHmP2BAiFs9xKsr7mmRQCghKQ2jwhdiOEc_w552oPl5Hbnvq65lPtV43/pub](https://docs.google.com/document/d/e/2PACX-1vQ3DTtHsstBEw82DGMdzXubabr5UrOnwTVErDBf3SaKD4USjq1qpYHw7XUldMZQJxaYUQYfsiaMNwfS/pub)](https://docs.google.com/document/d/e/2PACX-1vQyenoI2scVfWgRZE6voykFmdjdG5IjuYVkhvE5RLLgs7yQIU0jBr5tZYXgFWajddDx4hLOQIZDZquV/pub)]
+- 📄 Know about my experiences [[[https://docs.google.com/document/d/e/2PACX-1vS8gRCjWA-xrIjxXCACaho7CHmP2BAiFs9xKsr7mmRQCghKQ2jwhdiOEc_w552oPl5Hbnvq65lPtV43/pub](https://docs.google.com/document/d/e/2PACX-1vQ3DTtHsstBEw82DGMdzXubabr5UrOnwTVErDBf3SaKD4USjq1qpYHw7XUldMZQJxaYUQYfsiaMNwfS/pub)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan azula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan azula" height="30" width="40" /></a>
